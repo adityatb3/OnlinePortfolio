@@ -201,6 +201,18 @@ img {
   flex: 1;
   max-width: 300px;
   text-align: center;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+.speaker-photo {
+  width: 100%;
+  max-width: 280px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 12px;
+  display: block;
 }
 
 .showcase-item img {
