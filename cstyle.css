@@ -225,8 +225,27 @@ img {
   margin-top: 10px;
   font-size: 1rem;
   color: #333;
+  text-align: justify;
 }
 
 h2{
   text-align: center;
+}
+
+#honorable-mentions {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+#honorable-mentions h2 {
+  font-size: 1.8rem;
+  margin-bottom: 15px;
+}
+
+#honorable-mentions p {
+  font-size: 1rem;
+  line-height: 1.8;
+  margin-bottom: 15px;
+  color: #333;
 }
